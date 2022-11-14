@@ -12,5 +12,8 @@
         "psr-4": {
             "Sum\\": "./"
         }
+    },
+    "require": {
+        "spatie/ignition": "^1.4"
     }
 }
